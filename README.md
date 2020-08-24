@@ -1,6 +1,9 @@
 # SteamNite
 A custom theme that mimics the Steam client's look for Playnite
 
+### Notes
+This is a tweaked version, suited to my personal preferences. Details, what has been changed (most likely integration of Lacro59's plugins) will follow.
+
 ![img](https://i.imgur.com/qR4NZTk.png)
 
 ![img](https://i.imgur.com/Pj62FSA.png)
